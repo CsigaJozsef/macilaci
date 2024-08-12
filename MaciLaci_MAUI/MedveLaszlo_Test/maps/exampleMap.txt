@@ -1,0 +1,16 @@
+﻿mapSizeX mapSizeY
+obstacleCount
+obstacle1Position
+obstacle2Position
+...
+obstacle[obstacleCount]Position
+securityCount
+security1Position security1Facing
+security2Position security1Facing
+...
+security[securityCount]Position security[securityCount]Facing
+basketCount
+basket1Position
+basket2Position
+...
+basket[basketCount]Position

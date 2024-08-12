@@ -1,0 +1,15 @@
+D:\repos\MaciLaci\MaciLaci\bin\Debug\net6.0\MaciLaci.exe
+D:\repos\MaciLaci\MaciLaci\bin\Debug\net6.0\MaciLaci.deps.json
+D:\repos\MaciLaci\MaciLaci\bin\Debug\net6.0\MaciLaci.runtimeconfig.json
+D:\repos\MaciLaci\MaciLaci\bin\Debug\net6.0\MaciLaci.dll
+D:\repos\MaciLaci\MaciLaci\bin\Debug\net6.0\MaciLaci.pdb
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.csproj.AssemblyReference.cache
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.AssemblyInfoInputs.cache
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.AssemblyInfo.cs
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.csproj.CoreCompileInputs.cache
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.dll
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\refint\MaciLaci.dll
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.pdb
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\MaciLaci.genruntimeconfig.cache
+D:\repos\MaciLaci\MaciLaci\obj\Debug\net6.0\ref\MaciLaci.dll
